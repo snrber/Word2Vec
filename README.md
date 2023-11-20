@@ -1,2 +1,2 @@
 # Word2Vec
-This repository contains basic Word2Vec models and sentiment analysis.
+This repository contains code on sentiment analysis of an ITS corpus, to derive similarity between words for searching the AI policy database by OECD.
